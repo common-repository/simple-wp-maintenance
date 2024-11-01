@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple WP Maintenance\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-19 13:30+0000\n"
+"PO-Revision-Date: 2023-03-19 13:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: simple-wp-maintenance"
+
+#: simple-wp-maintenance.php:159
+msgid "Activate maintencance mode"
+msgstr "Wartungsmodus aktivieren"
+
+#: simple-wp-maintenance.php:120
+msgid "Background image"
+msgstr "Hintergrundbild"
+
+#. Author of the plugin
+msgid "dreiebenen.de - Dominik Hammerschmidt"
+msgstr "dreiebenen.de - Dominik Hammerschmidt"
+
+#: simple-wp-maintenance.php:153
+msgid "Enter your title, Message and background image."
+msgstr "Titel und Nachricht eingeben und Hintergrundbild auswählen."
+
+#: simple-wp-maintenance.php:118
+msgid "Font color"
+msgstr "Schriftfarbe"
+
+#: simple-wp-maintenance.php:115
+msgid "Font family"
+msgstr "Schrift"
+
+#. Author URI of the plugin
+msgid "https://dreiebenen.de"
+msgstr "https://dreiebenen.de"
+
+#: simple-wp-maintenance.php:112 simple-wp-maintenance.php:126
+#: simple-wp-maintenance.php:213
+msgid "Maintenance Mode"
+msgstr "Wartungsmodus"
+
+#: simple-wp-maintenance.php:299
+msgid "Maintenance mode enabled"
+msgstr "Wartungsmodus aktiviert"
+
+#: simple-wp-maintenance.php:114
+msgid "Message"
+msgstr "Nachricht"
+
+#: simple-wp-maintenance.php:117
+msgid "Message font size"
+msgstr "Schriftgröße für Nachricht"
+
+#: simple-wp-maintenance.php:119
+msgid "Overlay background color"
+msgstr "Hintergrundfarbe für Overlay"
+
+#: simple-wp-maintenance.php:171
+msgid "page under maintenance"
+msgstr "Webseite im Wartungsmodus"
+
+#: simple-wp-maintenance.php:180
+msgid "select image"
+msgstr "Bild auswählen"
+
+#. Description of the plugin
+msgid ""
+"Sets the WordPress website to maintenance mode and displays a custom message "
+"and background image."
+msgstr ""
+"Setzt die WordPress-Website in den Wartungsmodus und zeigt eine "
+"benutzerdefinierte Nachricht sowie ein Hintergrundbild an."
+
+#: simple-wp-maintenance.php:21 simple-wp-maintenance.php:111
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. Name of the plugin
+msgid "Simple WP Maintenance"
+msgstr "Simple WP Maintenance"
+
+#: simple-wp-maintenance.php:113
+msgid "Title"
+msgstr "Titel"
+
+#: simple-wp-maintenance.php:116
+msgid "Title font size"
+msgstr "Schriftgröße für Titel"
